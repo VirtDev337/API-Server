@@ -1,0 +1,26 @@
+{
+  "name": "api-server",
+  "version": "1.0.0",
+  "description": "Expressjs API server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VirtDev337/API-Server.git"
+  },
+  "keywords": [
+    "express",
+    "api"
+  ],
+  "author": "Lee Harvey",
+  "license": "Elastic-2.0",
+  "bugs": {
+    "url": "https://github.com/VirtDev337/API-Server/issues"
+  },
+  "homepage": "https://github.com/VirtDev337/API-Server#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
